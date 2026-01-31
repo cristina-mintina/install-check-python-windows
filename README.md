@@ -1,5 +1,7 @@
 # Install Check: Python on Windows
 
+To view the documentation sample, open `confirm-python-installed-windows.md`.
+
 This repository contains a short documentation sample that shows how to confirm Python is installed and working on Windows.
 
 This guide demonstrates:
@@ -8,4 +10,4 @@ This guide demonstrates:
 - Practical troubleshooting
 - Documentation that reduces reliance on implicit team knowledge
 
-This sample was created as part of a Technical Author application and reflects a docs-as-code workflow using Markdown.
+This sample was created to demonstrate a docs-as-code approach using Markdown.
