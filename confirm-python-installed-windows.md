@@ -51,12 +51,12 @@ This confirms that Python is installed and available from the command line.
 ## If something didn't work
 
 - **“python is not recognized”**
-- This usually means Python is not installed or not added to your system PATH.
+  - This usually means Python is not installed or not added to your system PATH.
 
 - **A version number doesn’t appear**
-- Try using `python3 --version` instead.
+  - Try using `python3 --version` instead.
 
 - **Unexpected output or errors**
-- Close the terminal and try again to ensure no previous commands are interfering.
+  - Close the terminal and try again to ensure no previous commands are interfering.
 
 If you don’t see a version number, nothing is broken; you’ve simply confirmed that Python is not yet ready to use.
