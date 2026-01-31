@@ -1,4 +1,4 @@
-# Install Check: Confirming Python Is Installed and Working on Windows
+# Install Check: Confirming Python is Installed and Working on Windows
 
 ## What this guide helps you do
 
